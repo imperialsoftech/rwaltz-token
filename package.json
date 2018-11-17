@@ -1,0 +1,29 @@
+{
+  "name": "rwaltz_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwaltzsoftware/rwaltz-token.git"
+  },
+  "keywords": [
+    "Crypto",
+    "ICO"
+  ],
+  "author": "Rwaltz Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwaltzsoftware/rwaltz-token/issues"
+  },
+  "homepage": "https://github.com/rwaltzsoftware/rwaltz-token#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}
